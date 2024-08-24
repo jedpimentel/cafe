@@ -1,5 +1,30 @@
 # cafe
-I need a new portfolio site.
+
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<!-- Here Be Dragons, only some random ramblings ahead -->
+
+I need a propper portfolio site but just gonna dumping stuff here for now
 What about José Café?
 Who knows.
 
